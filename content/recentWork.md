@@ -1,0 +1,2 @@
+- Liu, H., Baoueb, T., Fontaine, M., Roux, J. L., & Richard, G. (2024). GLA-Grad: A Griffin-Lim Extended Waveform Generation Diffusion Model. *arXiv preprint arXiv:2402.15516*.
+- Baoueb, T., Liu, H., Fontaine, M., Roux, J. L., & Richard, G. (2024). SpecDiff-GAN: A Spectrally-Shaped Noise Diffusion GAN for Speech and Music Synthesis. *arXiv preprint arXiv:2402.01753*.
